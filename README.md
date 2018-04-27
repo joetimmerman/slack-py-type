@@ -1,5 +1,5 @@
 # slack-py-type
-Python script to show yourself as typing in Slack whenever some types in a channel/DM you belong to.
+Script for Slack to show yourself as typing whenever someone starts typing to you, and stop when they stop typing.
 
 This is an adapation of [this](https://github.com/will/slacktyping) brilliant/evil project from Ruby to Python. As soon as someone starts typing to you in Slack, it will show you as typing in the same channel.
 
